@@ -10,24 +10,24 @@ Expectation - I will meet the following requirement to complete the assignment
 
 * Set up development environment for this homework
 
-*Set up both X and Y axis of the line chart*
+* Set up both X and Y axis of the line chart
 
-*Set up ticks for both axes
+* Set up ticks for both axes
 
--Add a plotting line
+* Add a plotting line
 
--Add a stroke dash array
+* Add a stroke dash array
 
--Add the two control buttons
+* Add the two control buttons
 
--Extend the range of the dataset (from Jan 2005 to Dec 2019)
+* Extend the range of the dataset (from Jan 2005 to Dec 2019)
 
--Add a caption to the chart
+* Add a caption to the chart
 
--Add D3.js Brushing
+* Add D3.js Brushing
 
--Add D3.js Scrubbing
+* Add D3.js Scrubbing
 
--Add a tooltip where the cursor is at. The tooltip shows the value of data
+* Add a tooltip where the cursor is at. The tooltip shows the value of data
 
--Public URL submitted from student website where working code is found
+* Public URL submitted from student website where working code is found
