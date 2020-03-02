@@ -8,9 +8,9 @@ Mike Foster and Eric Huntley provided a good example to learn [D3.js](http://dus
 
 Expectation - I will meet the following requirement to complete the assignment
 
-*Set up development environment for this homework
+*Set up development environment for this homework*
 
-*Set up both X and Y axis of the line chart
+*Set up both X and Y axis of the line chart*
 
 *Set up ticks for both axes
 
