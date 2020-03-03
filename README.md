@@ -1,4 +1,4 @@
-# InteractiveSVG
+# Interactive SVG
 
 Scalable Vector Graphics (SVG) is an XML-based markup language for describing two dimensional based vector graphics. As such, it's a text-based, open Web standard for describing images that can be rendered cleanly at any size, and is designed specifically to work wel with other web standards including CSS, DOM, JavaScript, and SMIL. SVG is essentially to graphics what HTML is to text.
 
